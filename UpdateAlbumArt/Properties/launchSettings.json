@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UpdateAlbumArt": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Matthew\\OneDrive\\Christmas Music\""
+    }
+  }
+}
