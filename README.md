@@ -14,5 +14,7 @@ cases first before setting this code free on your music collection.  (Because yo
 
 After running the code "for realz," I suggest re-scanning your entire music database in your media player to make sure that the art changes are reflected.  (But what do I know?  Maybe your player is awesome enough to deal with the changes.)
 
+There's no license associated with this project -- the code is laughably small, basically sample-size, so licensing would be overkill.  Use however you like.
+
 Good luck!
   --Matt--*
